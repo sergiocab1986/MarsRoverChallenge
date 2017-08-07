@@ -1,0 +1,4 @@
+Run Unit tests
+*******************
+phpunit --bootstrap src/Position.php test/PositionTest.php 
+phpunit --bootstrap src/Plateau.php test/PlateauTest.php 
