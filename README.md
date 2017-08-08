@@ -27,9 +27,14 @@ This is the solution to the Technical challenge for CoVesta
 		3. run_unit_tests.txt      - Describes the command used to run the test cases using PHPUnit
 
 
-1) System Requirements
+2) System Requirements
 	1. PHP7
 	2. PHP-Unit
+
+3) How to run the program
+	1. go inside the /src folder
+	2. run the following command from your teminal php MarsRover.php
+	3. Insert input values (see input_vs_output.txt inside the /test folder for some examples) 
 
 
 
