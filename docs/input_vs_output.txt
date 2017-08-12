@@ -1,3 +1,5 @@
+*** Inputs and outputs expected ***
+
 INPUT
 5 5
 1 2 N

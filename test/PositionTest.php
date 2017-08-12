@@ -7,7 +7,7 @@ use PHPUnit\Framework\TestCase;
  * @covers Position
  */
 final class PositionTest extends TestCase
-{
+{ 
     public function testCanRotateProperlyNorthRight()
     {
         $position = new Position(1, 2, 'N');        
