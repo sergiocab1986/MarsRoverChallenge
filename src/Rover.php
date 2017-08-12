@@ -2,7 +2,7 @@
 /**
 * This class represents the a Rover
 * @author     Sergio Cabrera
-* @version    1.0 - CoVesta Tech Challenge
+* @version    1.0 - Mars Rover Tech Challenge
 */
 class Rover
 {

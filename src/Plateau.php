@@ -2,7 +2,7 @@
 /**
 * This class represents the Plateau(grid) that will be explored by the Rovers.
 * @author     Sergio Cabrera
-* @version    1.0 - CoVesta Tech Challenge
+* @version    1.0 - Mars Rover Tech Challenge
 */
 class Plateau
 {

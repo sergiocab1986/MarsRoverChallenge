@@ -2,7 +2,7 @@
 /**
 * This class represents the a Position on the Plateau
 * @author     Sergio Cabrera
-* @version    1.0 - CoVesta Tech Challenge
+* @version    1.0 - Mars Rover Tech Challenge
 */
 class Position
 {

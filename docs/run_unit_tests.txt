@@ -1,4 +1,6 @@
 Run Unit tests
 *******************
+
+Go to the main folder /MarsRover and run the following lines in command line 
 phpunit --bootstrap src/Position.php test/PositionTest.php 
 phpunit --bootstrap src/Plateau.php test/PlateauTest.php 

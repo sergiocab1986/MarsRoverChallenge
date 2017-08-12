@@ -2,7 +2,7 @@
 /**
 * Reads the inputs and outputs the results from the Plateau 
 * @author     Sergio Cabrera
-* @version    1.0 - CoVesta Tech Challenge
+* @version    1.0 - Mars Rover Tech Challenge
 */
 
 //load the classes required
